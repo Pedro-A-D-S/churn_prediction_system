@@ -1,0 +1,7 @@
+{
+    "conventionalCommits.scopes": [
+        "infrastructure",
+        "configuration",
+        "data"
+    ]
+}
