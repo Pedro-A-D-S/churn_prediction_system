@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "infrastructure",
         "configuration",
-        "data"
+        "data",
+        "pipeline"
     ]
 }
