@@ -138,3 +138,13 @@ Each notebook contains step-by-step instructions and explanations. Execute the c
 Feel free to customize the notebooks, tweak hyperparameters, or modify the project to suit your specific needs. Remember to save your changes and push them back to your forked repository if necessary.
 
 By following these steps, you can harness the capabilities of AWS SageMaker to run and experiment with the Churn Prediction System effortlessly.
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+- For a summary of the license terms, please visit the [GNU GPL-3.0 Summary](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+- To view the full text of the license, see the [GNU General Public License v3.0](LICENSE) file in the project repository.
+
+By using or contributing to this project, you agree to comply with the terms and conditions of the GNU GPL-3.0 license.
